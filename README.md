@@ -1,2 +1,7 @@
 # projectmain
-python coding redundency code execution
+python coding 
+a="ramya"
+s=" "
+for i in a:
+s=i+s
+print(s)
